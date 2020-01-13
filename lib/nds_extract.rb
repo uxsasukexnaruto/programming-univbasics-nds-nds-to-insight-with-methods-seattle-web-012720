@@ -13,5 +13,10 @@ end
 # { directorOne => allTheMoneyTheyMade, ... }
 def directors_totals(nds)
   result = {}
-  nil
+  index = 10 
+  while nds[index] do 
+    
+    index += 1
+  end
+  result
 end
